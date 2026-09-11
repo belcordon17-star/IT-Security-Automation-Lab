@@ -1,4 +1,3 @@
-print("hello network")
 devices = 192.168.1.1
 
 for ip in devices result = subprocess.run
