@@ -1,1 +1,1 @@
-# IT-Security-Automation-Lab
+# Hands-on cybersecurity, cloud, and automation projects
